@@ -1,12 +1,12 @@
-# 🗣️ Speech to Text & Text to Speech Converter CLI Application
+#  Speech to Text & Text to Speech Converter CLI Application
 
-## 💡 Problem Statement
+##  Problem Statement
 
 The need exists for a **simple, accessible, and multi-functional command-line interface (CLI) tool** that allows users to easily convert **text into audible speech (TTS)** and **spoken words into digital text (STT)**. Users require a robust solution that can handle different languages and provide fallback mechanisms for TTS if the primary online service (like gTTS) fails, while also offering essential utility functions like checking microphone status and listing supported languages. The primary challenge is ensuring reliability across different operating systems and handling potential network/hardware errors gracefully.
 
 ---
 
-## 🎯 Scope of the Project
+##  Scope of the Project
 
 The scope of this project is to deliver a fully functional, self-contained **Python CLI application** that:
 
@@ -21,7 +21,7 @@ The scope of this project is to deliver a fully functional, self-contained **Pyt
 
 ---
 
-## 🧑‍💻 Target Users
+##  Target Users
 
 The primary users for this CLI application are:
 
@@ -32,7 +32,7 @@ The primary users for this CLI application are:
 
 ---
 
-## ✨ High-Level Features
+##  High-Level Features
 
 | Feature Category | Description |
 | :--- | :--- |
