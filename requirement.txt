@@ -1,7 +1,7 @@
-#os
-#platform
-#subprocess
-#speech_recognition as sr
-#requests
-#json
-#datetime import datetime
+## os
+## platform
+## subprocess
+## speech_recognition as sr
+## requests
+## json
+## datetime import datetime
