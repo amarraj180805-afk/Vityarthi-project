@@ -1,8 +1,8 @@
-## 🗣️ Speech Converter CLI
+## Speech Converter CLI
 
 -----
 
-## 📝 Project Overview
+##  Project Overview
 
 The **Speech Converter CLI** is a robust command-line interface (CLI) application developed in **Python** that facilitates conversion between **text and speech**. It offers users a simple, menu-driven way to either turn written text into an audio file or transcribe spoken words into text.
 
@@ -10,7 +10,7 @@ The application implements multiple fallback mechanisms for Text-to-Speech (TTS)
 
 -----
 
-## ✨ Features
+##  Features
 
   * **Text to Speech (TTS):**
       * Converts user-input text into spoken audio.
@@ -30,7 +30,7 @@ The application implements multiple fallback mechanisms for Text-to-Speech (TTS)
 
 -----
 
-## 🛠️ Technologies/Tools Used
+##  Technologies/Tools Used
 
 | Technology | Purpose |
 | :--- | :--- |
@@ -44,7 +44,7 @@ The application implements multiple fallback mechanisms for Text-to-Speech (TTS)
 
 -----
 
-## 🚀 Steps to Install & Run the Project
+##  Steps to Install & Run the Project
 
 ### 1\. Prerequisites
 
@@ -85,7 +85,7 @@ The application will launch and present a menu. Follow the on-screen prompts to 
 
 -----
 
-## ✅ Instructions for Testing
+##  Instructions for Testing
 
 Test each feature using the provided menu options:
 
